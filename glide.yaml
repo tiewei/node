@@ -8,8 +8,8 @@ import:
 - package: github.com/prometheus/client_golang
   version: 773f5027234d0b08adf766be34f55df2f312abf7
 - package: github.com/kelseyhightower/confd
-  repo: https://github.com/projectcalico/confd.git
-  version: 5629dba16d3f6c5968090ccac11f7bd8c1c1aa88
+  repo: https://github.com/tiewei/confd.git
+  version: 9e754cb1311cf4d0f86b12577f6da8642fc79875
   subpackages:
   - pkg/config
   - pkg/run

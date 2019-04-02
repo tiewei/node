@@ -1,5 +1,5 @@
-hash: 797739697c5c16993d44515e15528b765608b487e514efa708923df028342881
-updated: 2019-02-21T11:08:31.075756056Z
+hash: 9e76c8c1dc8ec34eeb5e3ebaac7a4687f534cddaa1467f6b876c5415e5e20b42
+updated: 2019-04-02T19:09:49.242993661Z
 imports:
 - name: cloud.google.com/go
   version: 3b1ae45394a234c385be014e9a488f2bb6eef821
@@ -47,7 +47,7 @@ imports:
 - name: github.com/ghodss/yaml
   version: 73d445a93680fa1a78ae23a5839bad48f32ba1ee
 - name: github.com/go-ini/ini
-  version: 6ed8d5f64cd79a498d1f3fab5880cc376ce41bbe
+  version: 3be5ad479f69d4e08d7fe25edf79bf3346bd658e
 - name: github.com/gogo/protobuf
   version: c0656edd0d9eab7c66d1eb0c568f9039345796f7
   subpackages:
@@ -106,10 +106,10 @@ imports:
 - name: github.com/json-iterator/go
   version: f2b4162afba35581b6d4a50d3b8f34e33c144682
 - name: github.com/kardianos/osext
-  version: ae77be60afb1dcacde03767a8c37337fad28ac14
+  version: 2bc1f35cddc0cc527b4bc3dce8578fc2a6c11384
 - name: github.com/kelseyhightower/confd
-  version: 5629dba16d3f6c5968090ccac11f7bd8c1c1aa88
-  repo: https://github.com/projectcalico/confd.git
+  version: 9e754cb1311cf4d0f86b12577f6da8642fc79875
+  repo: https://github.com/tiewei/confd.git
   subpackages:
   - pkg/backends
   - pkg/backends/calico
@@ -148,7 +148,7 @@ imports:
 - name: github.com/modern-go/reflect2
   version: 05fbef0ca5da472bbf96c9322b84a53edc03c9fd
 - name: github.com/onsi/ginkgo
-  version: 2e1be8f7d90e9d3e3e58b0ce470f2f14d075406f
+  version: eea6ad008b96acdaa524f5b409513bf062b500ad
   subpackages:
   - config
   - extensions/table
@@ -169,7 +169,7 @@ imports:
   - reporters/stenographer/support/go-isatty
   - types
 - name: github.com/onsi/gomega
-  version: 65fb64232476ad9046e57c26cd0bff3d3a8dc6cd
+  version: 90e289841c1ed79b7a598a7cd9959750cb5e89e2
   subpackages:
   - format
   - internal/assertion
